@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState, useCallback } from 'react';
 import { Restaurant } from '../types';
 import { KakaoMap, KakaoMarker, KakaoInfoWindow } from '../types/kakao';
+import { getCategoryName } from '../data/restaurants';
 
 interface UseKakaoMapProps {
   restaurants: Restaurant[];
@@ -112,7 +113,7 @@ export const useKakaoMap = ({ restaurants, onRestaurantSelect }: UseKakaoMapProp
         const content = `
           <div style="padding:10px;min-width:200px;">
             <h3 style="margin:0 0 5px 0;color:#333;">${restaurant.name}</h3>
-            <p style="margin:0 0 5px 0;color:#666;">${restaurant.category}</p>
+            <p style="margin:0 0 5px 0;color:#666;">${getCategoryName(restaurant.category)}</p>
             <p style="margin:0;color:#888;font-size:12px;">${restaurant.location}</p>
           </div>
         `;
