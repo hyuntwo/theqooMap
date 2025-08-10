@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>더쿠 맛집 지도</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="root"></div>
+  
+  <!-- 카카오맵 API -->
+  <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=%VITE_KAKAO_MAP_API_KEY%"></script>  
+  <!-- API 로딩 에러 처리 -->
+  <script>
+    window.addEventListener('error', function(e) {
+      if (e.target.src && e.target.src.includes('dapi.kakao.com')) {
+        console.error('카카오맵 API 로딩 실패:', e);
+        // 에러 메시지를 React 앱에 전달
+        window.kakaoMapError = '카카오맵 API 로딩에 실패했습니다. API 키와 도메인 설정을 확인해주세요.';
+      }
+    });
+  </script>
+  
+  <script type="module" src="/src/index.tsx"></script>
+</body>
+</html> 

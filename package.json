@@ -1,0 +1,25 @@
+{
+  "name": "theqoo-map",
+  "version": "1.0.0",
+  "description": "더쿠 맛집 지도 웹서비스",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^4.0.0"
+  },
+  "keywords": ["react", "맛집", "지도", "더쿠"],
+  "author": "",
+  "license": "MIT"
+} 
