@@ -1,6 +1,6 @@
 import { useState, useMemo } from 'react';
 import { Restaurant, SearchFilters } from '../types';
-import { restaurantData, categories } from '../data/restaurants';
+import { restaurantData, categories, getCategoryName, getCategoryIndex } from '../data/restaurants';
 
 export const useRestaurantFilter = () => {
   const [filters, setFilters] = useState<SearchFilters>({
@@ -12,9 +12,11 @@ export const useRestaurantFilter = () => {
     return restaurantData.filter(restaurant => {
       const matchesSearch = restaurant.name.toLowerCase().includes(filters.searchTerm.toLowerCase()) ||
                            restaurant.location.toLowerCase().includes(filters.searchTerm.toLowerCase()) ||
-                           restaurant.category.toLowerCase().includes(filters.searchTerm.toLowerCase());
+                           (restaurant.description && restaurant.description.toLowerCase().includes(filters.searchTerm.toLowerCase()));
       
-      const matchesCategory = !filters.selectedCategory || restaurant.category === filters.selectedCategory;
+      // 카테고리 매칭: 문자열 카테고리명을 인덱스로 변환하여 비교
+      const matchesCategory = !filters.selectedCategory || 
+                             getCategoryName(restaurant.category) === filters.selectedCategory;
       
       return matchesSearch && matchesCategory;
     });

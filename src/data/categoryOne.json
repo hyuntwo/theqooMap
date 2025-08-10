@@ -1,0 +1,1033 @@
+[
+    {
+      "name": "을지면옥",
+      "lat": 37.5737272036642,
+      "lng": 126.988566697403,
+      "address": "서울 종로구 낙원동 55-1",
+      "success": true,
+      "searchKeyword": "을지면옥"
+    },
+    {
+      "name": "평양면옥",
+      "lat": 37.5189524291083,
+      "lng": 127.029148302031,
+      "address": "서울 강남구 논현동 66-2",
+      "success": true,
+      "searchKeyword": "평양면옥"
+    },
+    {
+      "name": "우래옥",
+      "lat": 37.56821185731751,
+      "lng": 126.99871865898974,
+      "address": "서울 중구 주교동 118-1",
+      "success": true,
+      "searchKeyword": "우래옥"
+    },
+    {
+      "name": "봉피양 본점",
+      "lat": 37.510207646395244,
+      "lng": 127.12600462086547,
+      "address": "서울 송파구 방이동 205",
+      "success": true,
+      "searchKeyword": "봉피양 본점"
+    },
+    {
+      "name": "필동면옥",
+      "lat": 37.5603983847784,
+      "lng": 126.99693958989,
+      "address": "서울 중구 필동3가 1-5",
+      "success": true,
+      "searchKeyword": "필동면옥"
+    },
+    {
+      "name": "장충동 평양면옥",
+      "lat": 37.5189524291083,
+      "lng": 127.029148302031,
+      "address": "서울 강남구 논현동 66-2",
+      "success": true,
+      "searchKeyword": "평양면옥"
+    },
+    {
+      "name": "강서면옥 압구정점",
+      "lat": 37.51989616874132,
+      "lng": 127.02752540232174,
+      "address": "서울 강남구 신사동 563-33",
+      "success": true,
+      "searchKeyword": "압구정점"
+    },
+    {
+      "name": "본가 평양면옥",
+      "lat": 37.51296103094697,
+      "lng": 127.01893900013093,
+      "address": "서울 서초구 잠원동 29-23",
+      "success": true,
+      "searchKeyword": "본가 평양면옥"
+    },
+    {
+      "name": "을밀대 본점",
+      "lat": 37.5474871749408,
+      "lng": 126.945528667601,
+      "address": "서울 마포구 염리동 147-6",
+      "success": true,
+      "searchKeyword": "을밀대 본점"
+    },
+    {
+      "name": "정인면옥 여의도점",
+      "lat": 37.53077816623998,
+      "lng": 126.92157407940762,
+      "address": "서울 영등포구 여의도동 13-1",
+      "success": true,
+      "searchKeyword": "정인면옥 여의도점"
+    },
+    {
+      "name": "장충동 평양면옥 도곡동점",
+      "lat": 37.4833361711177,
+      "lng": 127.044805199004,
+      "address": "서울 강남구 도곡동 423-15",
+      "success": true,
+      "searchKeyword": "평양면옥 도곡동점"
+    },
+    {
+      "name": "을밀대 강남점",
+      "lat": 37.4952411777316,
+      "lng": 127.030740331534,
+      "address": "서울 강남구 역삼동 826-37",
+      "success": true,
+      "searchKeyword": "을밀대 강남점"
+    },
+    {
+      "name": "금왕평양면옥",
+      "lat": 37.5665,
+      "lng": 126.985,
+      "address": "검색 결과 없음",
+      "success": false,
+      "searchKeyword": "금왕평양면옥",
+      "errorStatus": "ZERO_RESULT"
+    },
+    {
+      "name": "강서면옥 본점",
+      "lat": 37.55974817503398,
+      "lng": 126.83452543988363,
+      "address": "서울 강서구 마곡동 797-7",
+      "success": true,
+      "searchKeyword": "강서면옥 본점"
+    },
+    {
+      "name": "남포면옥",
+      "lat": 37.5671652991647,
+      "lng": 126.981753597164,
+      "address": "서울 중구 다동 121-4",
+      "success": true,
+      "searchKeyword": "남포면옥"
+    },
+    {
+      "name": "서북면옥",
+      "lat": 37.5453966002957,
+      "lng": 127.08534387836,
+      "address": "서울 광진구 구의동 80-47",
+      "success": true,
+      "searchKeyword": "서북면옥"
+    },
+    {
+      "name": "부원면옥",
+      "lat": 37.5584213149079,
+      "lng": 126.977604365846,
+      "address": "서울 중구 남창동 47-10",
+      "success": true,
+      "searchKeyword": "부원면옥"
+    },
+    {
+      "name": "평래옥",
+      "lat": 37.564910222013,
+      "lng": 126.99036546529,
+      "address": "서울 중구 저동2가 18-1",
+      "success": true,
+      "searchKeyword": "평래옥"
+    },
+    {
+      "name": "유진식당",
+      "lat": 37.57204231870933,
+      "lng": 126.9883179183545,
+      "address": "서울 종로구 낙원동 221",
+      "success": true,
+      "searchKeyword": "유진식당"
+    },
+    {
+      "name": "평양냉면",
+      "lat": 37.5189524291083,
+      "lng": 127.029148302031,
+      "address": "서울 강남구 논현동 66-2",
+      "success": true,
+      "searchKeyword": "평양면옥"
+    },
+    {
+      "name": "남포면옥 강남점",
+      "lat": 37.5665,
+      "lng": 126.985,
+      "address": "검색 결과 없음",
+      "success": false,
+      "searchKeyword": "남포면옥 강남점",
+      "errorStatus": "ZERO_RESULT"
+    },
+    {
+      "name": "평가옥",
+      "lat": 37.50700409947946,
+      "lng": 127.05284266713628,
+      "address": "서울 강남구 삼성동 143-1",
+      "success": true,
+      "searchKeyword": "평가옥"
+    },
+    {
+      "name": "만포면옥",
+      "lat": 37.6141228091598,
+      "lng": 126.9174907433,
+      "address": "서울 은평구 갈현동 463-1",
+      "success": true,
+      "searchKeyword": "만포면옥"
+    },
+    {
+      "name": "삼도갈비 석촌호수점",
+      "lat": 37.5665,
+      "lng": 126.985,
+      "address": "검색 결과 없음",
+      "success": false,
+      "searchKeyword": "삼도갈비 석촌호수점",
+      "errorStatus": "ZERO_RESULT"
+    },
+    {
+      "name": "한아람 정육식당",
+      "lat": 37.5157707627353,
+      "lng": 127.116018147064,
+      "address": "서울 송파구 방이동 180-7",
+      "success": true,
+      "searchKeyword": "한아람 정육식당"
+    },
+    {
+      "name": "능라도 강남점",
+      "lat": 37.509677046854954,
+      "lng": 127.05553416938561,
+      "address": "서울 강남구 삼성동 151-7",
+      "success": true,
+      "searchKeyword": "능라도 강남점"
+    },
+    {
+      "name": "대동관 강서점",
+      "lat": 37.5584101039439,
+      "lng": 126.85501470021417,
+      "address": "서울 강서구 등촌동 639-11",
+      "success": true,
+      "searchKeyword": "강서점"
+    },
+    {
+      "name": "동무밥상",
+      "lat": 37.672083876060356,
+      "lng": 126.80704394741677,
+      "address": "경기 고양시 일산동구 식사동 861-15",
+      "success": true,
+      "searchKeyword": "동무밥상"
+    },
+    {
+      "name": "무삼면옥",
+      "lat": 37.5665,
+      "lng": 126.985,
+      "address": "검색 결과 없음",
+      "success": false,
+      "searchKeyword": "무삼면옥",
+      "errorStatus": "ZERO_RESULT"
+    },
+    {
+      "name": "배꼽집 본점",
+      "lat": 37.5665,
+      "lng": 126.985,
+      "address": "검색 결과 없음",
+      "success": false,
+      "searchKeyword": "배꼽집 본점",
+      "errorStatus": "ZERO_RESULT"
+    },
+    {
+      "name": "배꼽집 상암점",
+      "lat": 37.5813498306642,
+      "lng": 126.888567163258,
+      "address": "서울 마포구 상암동 1597",
+      "success": true,
+      "searchKeyword": "배꼽집 상암점"
+    },
+    {
+      "name": "평택 고여사집 냉면",
+      "lat": 37.5656750889717,
+      "lng": 126.929256985769,
+      "address": "서울 서대문구 연희동 193-13",
+      "success": true,
+      "searchKeyword": "평택 고여사집 냉면"
+    },
+    {
+      "name": "두리",
+      "lat": 36.6866293599881,
+      "lng": 126.740992266169,
+      "address": "충남 예산군 삽교읍 두리 568-50",
+      "success": true,
+      "searchKeyword": "두리"
+    },
+    {
+      "name": "장수원",
+      "lat": 37.7073547200729,
+      "lng": 127.045756226663,
+      "address": "경기 의정부시 호원동",
+      "success": true,
+      "searchKeyword": "장수원"
+    },
+    {
+      "name": "진미 평양면옥",
+      "lat": 37.5665,
+      "lng": 126.985,
+      "address": "검색 결과 없음",
+      "success": false,
+      "searchKeyword": "진미 평양면옥",
+      "errorStatus": "ZERO_RESULT"
+    },
+    {
+      "name": "봉밀가",
+      "lat": 37.515803126376866,
+      "lng": 127.04208160106053,
+      "address": "서울 강남구 삼성동 8-1",
+      "success": true,
+      "searchKeyword": "봉밀가"
+    },
+    {
+      "name": "서경도락",
+      "lat": 37.53840333834639,
+      "lng": 126.9476081398492,
+      "address": "서울 마포구 도화동 204-9",
+      "success": true,
+      "searchKeyword": "서경도락"
+    },
+    {
+      "name": "달고나",
+      "lat": 37.55801353159328,
+      "lng": 126.9011261123124,
+      "address": "서울 마포구 망원동 428-42",
+      "success": true,
+      "searchKeyword": "달고나"
+    },
+    {
+      "name": "능라밥상",
+      "lat": 37.57292939351623,
+      "lng": 126.96400246153803,
+      "address": "서울 종로구 행촌동 1-64",
+      "success": true,
+      "searchKeyword": "능라밥상"
+    },
+    {
+      "name": "평미가",
+      "lat": 37.518969937919515,
+      "lng": 126.87151806394029,
+      "address": "서울 양천구 신정동 294-12",
+      "success": true,
+      "searchKeyword": "평미가"
+    },
+    {
+      "name": "의정부 평양면옥",
+      "lat": 37.73092166124022,
+      "lng": 127.04751996690172,
+      "address": "경기 의정부시 의정부동 385",
+      "success": true,
+      "searchKeyword": "의정부 평양면옥"
+    },
+    {
+      "name": "의정부 평양면옥 하남점",
+      "lat": 37.5665,
+      "lng": 126.985,
+      "address": "검색 결과 없음",
+      "success": false,
+      "searchKeyword": "의정부 평양면옥 하남점",
+      "errorStatus": "ZERO_RESULT"
+    },
+    {
+      "name": "산성면옥",
+      "lat": 37.5665,
+      "lng": 126.985,
+      "address": "검색 결과 없음",
+      "success": false,
+      "searchKeyword": "산성면옥",
+      "errorStatus": "ZERO_RESULT"
+    },
+    {
+      "name": "고구려",
+      "lat": 36.7562146379293,
+      "lng": 126.970255905838,
+      "address": "충남 아산시 기산동 145-7",
+      "success": true,
+      "searchKeyword": "고구려"
+    },
+    {
+      "name": "송추면옥",
+      "lat": 37.7171726571246,
+      "lng": 126.971498960166,
+      "address": "경기 양주시 장흥면 교현리 114-23",
+      "success": true,
+      "searchKeyword": "송추면옥"
+    },
+    {
+      "name": "만포면옥 본점",
+      "lat": 37.7171726571246,
+      "lng": 126.971498960166,
+      "address": "경기 양주시 장흥면 교현리 114-23",
+      "success": true,
+      "searchKeyword": "만포면옥 본점"
+    },
+    {
+      "name": "해이리 평양면옥",
+      "lat": 37.5665,
+      "lng": 126.985,
+      "address": "검색 결과 없음",
+      "success": false,
+      "searchKeyword": "해이리 평양면옥",
+      "errorStatus": "ZERO_RESULT"
+    },
+    {
+      "name": "평양면옥 분당점",
+      "lat": 37.3852085094389,
+      "lng": 127.134746071038,
+      "address": "경기 성남시 분당구 서현동 203-1",
+      "success": true,
+      "searchKeyword": "평양면옥 분당점"
+    },
+    {
+      "name": "능라도 본점",
+      "lat": 37.3917474696144,
+      "lng": 127.065181344398,
+      "address": "경기 성남시 분당구 운중동 883-3",
+      "success": true,
+      "searchKeyword": "능라도 본점"
+    },
+    {
+      "name": "리북냉면",
+      "lat": 37.537898542362655,
+      "lng": 126.66222101002576,
+      "address": "인천 서구 청라동 133-13",
+      "success": true,
+      "searchKeyword": "리북냉면"
+    },
+    {
+      "name": "광릉 한옥집",
+      "lat": 37.74306098571575,
+      "lng": 127.19930094194743,
+      "address": "경기 남양주시 진접읍 부평리 602-1",
+      "success": true,
+      "searchKeyword": "광릉 한옥집"
+    },
+    {
+      "name": "봉가진면옥",
+      "lat": 37.4084521374866,
+      "lng": 126.948941239786,
+      "address": "경기 안양시 동안구 비산동 1015-3",
+      "success": true,
+      "searchKeyword": "봉가진면옥"
+    },
+    {
+      "name": "대원옥",
+      "lat": 37.2793767496981,
+      "lng": 127.017234040133,
+      "address": "경기 수원시 팔달구 팔달로1가 64-1",
+      "success": true,
+      "searchKeyword": "대원옥"
+    },
+    {
+      "name": "육미옥",
+      "lat": 37.3069380263724,
+      "lng": 127.014754219752,
+      "address": "경기 수원시 장안구 조원동 53-1",
+      "success": true,
+      "searchKeyword": "육미옥"
+    },
+    {
+      "name": "평남면옥",
+      "lat": 37.90386340952936,
+      "lng": 127.05118764639475,
+      "address": "경기 동두천시 생연동 818-142",
+      "success": true,
+      "searchKeyword": "평남면옥"
+    },
+    {
+      "name": "송추 평양면옥",
+      "lat": 37.72034436967037,
+      "lng": 126.98213122179126,
+      "address": "경기 양주시 장흥면 부곡리 535-17",
+      "success": true,
+      "searchKeyword": "송추 평양면옥"
+    },
+    {
+      "name": "삼도갈비",
+      "lat": 37.49671270577,
+      "lng": 126.742596914096,
+      "address": "경기 부천시 원미구 상동 573-1",
+      "success": true,
+      "searchKeyword": "삼도갈비"
+    },
+    {
+      "name": "이조면옥",
+      "lat": 38.182135950869004,
+      "lng": 128.6007076373087,
+      "address": "강원특별자치도 속초시 조양동 1287-9",
+      "success": true,
+      "searchKeyword": "이조면옥"
+    },
+    {
+      "name": "명가냉면",
+      "lat": 37.54955981953704,
+      "lng": 126.84731856214971,
+      "address": "서울 강서구 화곡동 986-16",
+      "success": true,
+      "searchKeyword": "명가냉면"
+    },
+    {
+      "name": "한주면옥",
+      "lat": 37.5210561798174,
+      "lng": 126.939683675789,
+      "address": "서울 영등포구 여의도동 50",
+      "success": true,
+      "searchKeyword": "한주면옥"
+    },
+    {
+      "name": "영등포함흥냉면",
+      "lat": 37.5189660993437,
+      "lng": 126.906790582264,
+      "address": "서울 영등포구 영등포동3가 7-32",
+      "success": true,
+      "searchKeyword": "영등포함흥냉면"
+    },
+    {
+      "name": "마약냉면",
+      "lat": 37.4352430392575,
+      "lng": 126.885822617312,
+      "address": "경기 광명시 소하동 1371-4",
+      "success": true,
+      "searchKeyword": "마약냉면"
+    },
+    {
+      "name": "산까치냉면",
+      "lat": 37.541416219888696,
+      "lng": 126.94953414407992,
+      "address": "서울 마포구 도화동 179-1",
+      "success": true,
+      "searchKeyword": "산까치냉면"
+    },
+    {
+      "name": "아소정",
+      "lat": 37.5466190059557,
+      "lng": 126.946389315311,
+      "address": "서울 마포구 염리동 149-9",
+      "success": true,
+      "searchKeyword": "아소정"
+    },
+    {
+      "name": "신라면옥",
+      "lat": 37.5330413627371,
+      "lng": 126.951544619309,
+      "address": "서울 용산구 원효로4가 127-2",
+      "success": true,
+      "searchKeyword": "신라면옥"
+    },
+    {
+      "name": "개성면옥",
+      "lat": 37.492904890872104,
+      "lng": 126.88381142761835,
+      "address": "서울 구로구 구로동 426-167",
+      "success": true,
+      "searchKeyword": "개성면옥"
+    },
+    {
+      "name": "청송함흥냉면",
+      "lat": 36.2889442616305,
+      "lng": 128.900268731146,
+      "address": "경북 청송군 현서면 덕계리 332-1",
+      "success": true,
+      "searchKeyword": "청송함흥냉면"
+    },
+    {
+      "name": "진평면옥",
+      "lat": 37.5005145771452,
+      "lng": 127.031466271776,
+      "address": "서울 강남구 역삼동 636-23",
+      "success": true,
+      "searchKeyword": "진평면옥"
+    },
+    {
+      "name": "산천칡냉면",
+      "lat": 37.48447094139343,
+      "lng": 126.97087414453368,
+      "address": "서울 동작구 사당동 250-7",
+      "success": true,
+      "searchKeyword": "산천칡냉면"
+    },
+    {
+      "name": "신촌함흥냉면",
+      "lat": 37.5659126768563,
+      "lng": 126.928799476854,
+      "address": "서울 서대문구 연희동 193-6",
+      "success": true,
+      "searchKeyword": "신촌함흥냉면"
+    },
+    {
+      "name": "혜화면옥",
+      "lat": 37.59084041124726,
+      "lng": 127.01389067982205,
+      "address": "서울 성북구 삼선동4가 345-1",
+      "success": true,
+      "searchKeyword": "혜화면옥"
+    },
+    {
+      "name": "뚱보냉면",
+      "lat": 37.64632653577253,
+      "lng": 127.036485042155,
+      "address": "서울 도봉구 창동 651-51",
+      "success": true,
+      "searchKeyword": "뚱보냉면"
+    },
+    {
+      "name": "하누소",
+      "lat": 37.651519639360096,
+      "lng": 127.0448063295615,
+      "address": "서울 도봉구 창동 337-1",
+      "success": true,
+      "searchKeyword": "하누소"
+    },
+    {
+      "name": "두메골칡냉면",
+      "lat": 37.6649287153043,
+      "lng": 127.037760146274,
+      "address": "서울 도봉구 방학동 697-34",
+      "success": true,
+      "searchKeyword": "두메골칡냉면"
+    },
+    {
+      "name": "시골불냉면",
+      "lat": 37.6654298720102,
+      "lng": 127.037093960169,
+      "address": "서울 도봉구 방학동 696-17",
+      "success": true,
+      "searchKeyword": "시골불냉면"
+    },
+    {
+      "name": "오장동함흥냉면",
+      "lat": 37.56427090773028,
+      "lng": 126.99987775835788,
+      "address": "서울 중구 오장동 90-10",
+      "success": true,
+      "searchKeyword": "오장동함흥냉면"
+    },
+    {
+      "name": "백운면옥",
+      "lat": 37.7113740638971,
+      "lng": 127.204451046127,
+      "address": "경기 남양주시 오남읍 양지리 248-14",
+      "success": true,
+      "searchKeyword": "백운면옥"
+    },
+    {
+      "name": "이오냉면",
+      "lat": 37.67390580472869,
+      "lng": 127.05259580420237,
+      "address": "서울 노원구 상계동 1048-10",
+      "success": true,
+      "searchKeyword": "이오냉면"
+    },
+    {
+      "name": "삼성냉면",
+      "lat": 37.509677046854954,
+      "lng": 127.05553416938561,
+      "address": "서울 강남구 삼성동 151-7",
+      "success": true,
+      "searchKeyword": "삼성냉면"
+    },
+    {
+      "name": "할머니냉면",
+      "lat": 37.5822701030824,
+      "lng": 127.043700583545,
+      "address": "서울 동대문구 제기동 470",
+      "success": true,
+      "searchKeyword": "할머니냉면"
+    },
+    {
+      "name": "청산칡냉면",
+      "lat": 37.5886966027386,
+      "lng": 127.007893955179,
+      "address": "서울 성북구 동소문동2가 41",
+      "success": true,
+      "searchKeyword": "청산칡냉면"
+    },
+    {
+      "name": "낙산냉면",
+      "lat": 37.5744890103185,
+      "lng": 127.015277764702,
+      "address": "서울 종로구 창신동 81-8",
+      "success": true,
+      "searchKeyword": "낙산냉면"
+    },
+    {
+      "name": "깃대봉냉면",
+      "lat": 37.57136950402022,
+      "lng": 127.02253761163587,
+      "address": "서울 중구 황학동 2545",
+      "success": true,
+      "searchKeyword": "깃대봉냉면"
+    },
+    {
+      "name": "청량리할머니냉면",
+      "lat": 37.4875962241861,
+      "lng": 126.784894013202,
+      "address": "경기 부천시 원미구 심곡동 163-22",
+      "success": true,
+      "searchKeyword": "청량리할머니냉면"
+    },
+    {
+      "name": "춘천냉면",
+      "lat": 37.5821654970769,
+      "lng": 127.043945064171,
+      "address": "서울 동대문구 청량리동 733",
+      "success": true,
+      "searchKeyword": "춘천냉면"
+    },
+    {
+      "name": "먹보함흥냉면",
+      "lat": 36.3503155927308,
+      "lng": 126.592390944216,
+      "address": "충남 보령시 대천동 343-6",
+      "success": true,
+      "searchKeyword": "먹보함흥냉면"
+    },
+    {
+      "name": "소문난냉면",
+      "lat": 37.58000745955792,
+      "lng": 127.03928065461213,
+      "address": "서울 동대문구 제기동 991",
+      "success": true,
+      "searchKeyword": "소문난냉면"
+    },
+    {
+      "name": "함경면옥",
+      "lat": 35.54351548328154,
+      "lng": 129.324656886406,
+      "address": "울산 남구 신정동 133-6",
+      "success": true,
+      "searchKeyword": "함경면옥"
+    },
+    {
+      "name": "곰보함흥냉면",
+      "lat": 37.571585153324456,
+      "lng": 126.9970104467935,
+      "address": "서울 종로구 인의동 112-14",
+      "success": true,
+      "searchKeyword": "곰보함흥냉면"
+    },
+    {
+      "name": "인사면옥",
+      "lat": 37.57241877352997,
+      "lng": 126.98678967258219,
+      "address": "서울 종로구 인사동 32-2",
+      "success": true,
+      "searchKeyword": "인사면옥"
+    },
+    {
+      "name": "명동함흥면옥",
+      "lat": 37.562769881012464,
+      "lng": 126.98568556457165,
+      "address": "서울 중구 명동2가 26-1",
+      "success": true,
+      "searchKeyword": "명동함흥면옥"
+    },
+    {
+      "name": "서울쌈냉면",
+      "lat": 37.5874787976777,
+      "lng": 127.028871568485,
+      "address": "서울 성북구 안암동5가 147-9",
+      "success": true,
+      "searchKeyword": "서울쌈냉면"
+    },
+    {
+      "name": "옛촌양푼이",
+      "lat": 37.5665,
+      "lng": 126.985,
+      "address": "검색 결과 없음",
+      "success": false,
+      "searchKeyword": "옛촌양푼이",
+      "errorStatus": "ZERO_RESULT"
+    },
+    {
+      "name": "송가칡냉면",
+      "lat": 37.5665,
+      "lng": 126.985,
+      "address": "검색 결과 없음",
+      "success": false,
+      "searchKeyword": "송가칡냉면",
+      "errorStatus": "ZERO_RESULT"
+    },
+    {
+      "name": "이수면옥",
+      "lat": 37.4877510094111,
+      "lng": 126.98187695555,
+      "address": "서울 동작구 사당동 134-3",
+      "success": true,
+      "searchKeyword": "이수면옥"
+    },
+    {
+      "name": "신창면옥",
+      "lat": 37.333648390411156,
+      "lng": 126.80690078225176,
+      "address": "경기 안산시 단원구 선부동 1071-12",
+      "success": true,
+      "searchKeyword": "신창면옥"
+    },
+    {
+      "name": "흥남집",
+      "lat": 37.56435740219144,
+      "lng": 127.00054103307872,
+      "address": "서울 중구 오장동 101-7",
+      "success": true,
+      "searchKeyword": "흥남집"
+    },
+    {
+      "name": "부산갈비",
+      "lat": 35.1556912586169,
+      "lng": 129.055605652178,
+      "address": "부산 부산진구 부전동 516-68",
+      "success": true,
+      "searchKeyword": "부산갈비"
+    },
+    {
+      "name": "동아냉면",
+      "lat": 37.530863624539,
+      "lng": 126.996637592025,
+      "address": "서울 용산구 보광동 265-576",
+      "success": true,
+      "searchKeyword": "동아냉면"
+    },
+    {
+      "name": "금호냉면",
+      "lat": 35.1310307542722,
+      "lng": 126.858739790468,
+      "address": "광주 서구 금호동 799",
+      "success": true,
+      "searchKeyword": "금호냉면"
+    },
+    {
+      "name": "함흥에겨울냉면",
+      "lat": 37.560189277372,
+      "lng": 127.005228940529,
+      "address": "서울 중구 장충동2가 187-14",
+      "success": true,
+      "searchKeyword": "함흥에겨울냉면"
+    },
+    {
+      "name": "조선면옥",
+      "lat": 37.4442920846672,
+      "lng": 127.056593263091,
+      "address": "서울 서초구 원지동 379-4",
+      "success": true,
+      "searchKeyword": "조선면옥"
+    },
+    {
+      "name": "서초면옥",
+      "lat": 37.4939439225313,
+      "lng": 126.993115659813,
+      "address": "서울 서초구 방배동 797-19",
+      "success": true,
+      "searchKeyword": "서초면옥"
+    },
+    {
+      "name": "흥미면옥",
+      "lat": 37.49026592361064,
+      "lng": 126.9917568365484,
+      "address": "서울 서초구 방배동 836-5",
+      "success": true,
+      "searchKeyword": "흥미면옥"
+    },
+    {
+      "name": "정이면옥",
+      "lat": 37.5665,
+      "lng": 126.985,
+      "address": "검색 결과 없음",
+      "success": false,
+      "searchKeyword": "정이면옥",
+      "errorStatus": "ZERO_RESULT"
+    },
+    {
+      "name": "오장동면옥",
+      "lat": 37.4942778186,
+      "lng": 127.018694549636,
+      "address": "서울 서초구 서초동 1639-9",
+      "success": true,
+      "searchKeyword": "오장동면옥"
+    },
+    {
+      "name": "중일면옥",
+      "lat": 37.56393824652791,
+      "lng": 126.98392303186743,
+      "address": "서울 중구 명동1가 54-17",
+      "success": true,
+      "searchKeyword": "중일면옥"
+    },
+    {
+      "name": "박군자진주냉면",
+      "lat": 35.5353803110355,
+      "lng": 129.285426779998,
+      "address": "울산 남구 옥동 254-7",
+      "success": true,
+      "searchKeyword": "박군자진주냉면"
+    },
+    {
+      "name": "반룡산",
+      "lat": 37.50447271946909,
+      "lng": 127.05579495970723,
+      "address": "서울 강남구 대치동 894-4",
+      "success": true,
+      "searchKeyword": "반룡산"
+    },
+    {
+      "name": "대치동함흥면옥",
+      "lat": 37.497043128757014,
+      "lng": 127.05362498193385,
+      "address": "서울 강남구 대치동 937",
+      "success": true,
+      "searchKeyword": "대치동함흥면옥"
+    },
+    {
+      "name": "신사면옥",
+      "lat": 37.5211487850902,
+      "lng": 127.036655901063,
+      "address": "서울 강남구 논현동 96",
+      "success": true,
+      "searchKeyword": "신사면옥"
+    },
+    {
+      "name": "한일관",
+      "lat": 34.7324624205951,
+      "lng": 127.726180909841,
+      "address": "전남 여수시 봉산동 179-2",
+      "success": true,
+      "searchKeyword": "한일관"
+    },
+    {
+      "name": "강남면옥",
+      "lat": 37.521409900961,
+      "lng": 127.030972783415,
+      "address": "서울 강남구 신사동 588-9",
+      "success": true,
+      "searchKeyword": "강남면옥"
+    },
+    {
+      "name": "함흥면옥",
+      "lat": 36.1792963517783,
+      "lng": 127.107008549007,
+      "address": "충남 논산시 내동 1205",
+      "success": true,
+      "searchKeyword": "함흥면옥"
+    },
+    {
+      "name": "산봉면옥",
+      "lat": 37.5665,
+      "lng": 126.985,
+      "address": "검색 결과 없음",
+      "success": false,
+      "searchKeyword": "산봉면옥",
+      "errorStatus": "ZERO_RESULT"
+    },
+    {
+      "name": "배덕현함흥냉면",
+      "lat": 37.5665,
+      "lng": 126.985,
+      "address": "검색 결과 없음",
+      "success": false,
+      "searchKeyword": "배덕현함흥냉면",
+      "errorStatus": "ZERO_RESULT"
+    },
+    {
+      "name": "경성냉면",
+      "lat": 37.402150440592,
+      "lng": 126.960858679973,
+      "address": "경기 안양시 동안구 관양동 1448-26",
+      "success": true,
+      "searchKeyword": "경성냉면"
+    },
+    {
+      "name": "송월냉면",
+      "lat": 37.54237404564179,
+      "lng": 127.12957215253026,
+      "address": "서울 강동구 천호동 398-10",
+      "success": true,
+      "searchKeyword": "송월냉면"
+    },
+    {
+      "name": "유천칡냉면",
+      "lat": 36.8228223521526,
+      "lng": 127.157040398701,
+      "address": "충남 천안시 동남구 신부동 592",
+      "success": true,
+      "searchKeyword": "유천칡냉면"
+    },
+    {
+      "name": "옛촌칡냉면",
+      "lat": 37.7390251487297,
+      "lng": 127.037016065145,
+      "address": "경기 의정부시 의정부동 481-15",
+      "success": true,
+      "searchKeyword": "옛촌칡냉면"
+    },
+    {
+      "name": "함흥본가면옥",
+      "lat": 37.5451805911085,
+      "lng": 127.07986226799,
+      "address": "서울 광진구 화양동 302-25",
+      "success": true,
+      "searchKeyword": "함흥본가면옥"
+    },
+    {
+      "name": "이가면옥",
+      "lat": 37.5764747816119,
+      "lng": 126.97039458292083,
+      "address": "서울 종로구 필운동 205-1",
+      "success": true,
+      "searchKeyword": "이가면옥"
+    },
+    {
+      "name": "윤가면옥",
+      "lat": 37.5665,
+      "lng": 126.985,
+      "address": "검색 결과 없음",
+      "success": false,
+      "searchKeyword": "윤가면옥",
+      "errorStatus": "ZERO_RESULT"
+    },
+    {
+      "name": "황산냉면",
+      "lat": 37.51093889571969,
+      "lng": 127.11852388451224,
+      "address": "서울 송파구 방이동 136-9",
+      "success": true,
+      "searchKeyword": "황산냉면"
+    },
+    {
+      "name": "함경냉면",
+      "lat": 35.21700866695452,
+      "lng": 129.08165836786694,
+      "address": "부산 동래구 온천동 183-8",
+      "success": true,
+      "searchKeyword": "함경냉면"
+    },
+    {
+      "name": "해주냉면",
+      "lat": 37.509652351093166,
+      "lng": 127.07977463491474,
+      "address": "서울 송파구 잠실동 195-9",
+      "success": true,
+      "searchKeyword": "해주냉면"
+    },
+    {
+      "name": "연백냉면",
+      "lat": 37.48266482288441,
+      "lng": 127.12931068327904,
+      "address": "서울 송파구 문정동 98",
+      "success": true,
+      "searchKeyword": "연백냉면"
+    }
+  ]

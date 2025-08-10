@@ -1,10 +1,11 @@
 export interface Restaurant {
   id: string;
   name: string;
-  category: string;
+  category: number;
   location: string;
   lat: number;
   lng: number;
+  description?: string;
 }
 
 export interface MapMarker {

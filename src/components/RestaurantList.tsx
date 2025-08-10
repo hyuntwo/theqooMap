@@ -1,5 +1,6 @@
 import React from 'react';
 import { Restaurant } from '../types';
+import { getCategoryName } from '../data/restaurants';
 
 interface RestaurantListProps {
   restaurants: Restaurant[];
@@ -30,7 +31,7 @@ const RestaurantList: React.FC<RestaurantListProps> = ({ restaurants, onRestaura
           >
             <div className="restaurant-info">
               <h4 className="restaurant-name">{restaurant.name}</h4>
-              <p className="restaurant-category">{restaurant.category}</p>
+              <p className="restaurant-category">{getCategoryName(restaurant.category)}</p>
               <p className="restaurant-location">{restaurant.location}</p>
             </div>
             <div className="restaurant-actions">
