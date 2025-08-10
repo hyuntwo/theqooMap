@@ -7,6 +7,7 @@ import Footer from './components/Footer';
 import { useKakaoMap } from './hooks/useKakaoMap';
 import { useRestaurantFilter } from './hooks/useRestaurantFilter';
 import { Restaurant } from './types';
+import { Analytics } from "@vercel/analytics/react";
 import './App.css';
 
 const App: React.FC = () => {
@@ -71,6 +72,7 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <div className="container">
+        <Analytics />
         <Header />
         
         <SearchSection
